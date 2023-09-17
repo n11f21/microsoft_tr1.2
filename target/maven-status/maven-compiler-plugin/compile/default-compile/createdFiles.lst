@@ -1,0 +1,7 @@
+com\mycompany\tiend\resources\JakartaEE91Resource.class
+controler\C_controler.class
+model\M_conection.class
+model\M_Administrador.class
+model\M_Empleado.class
+com\mycompany\tiend\JakartaRestConfiguration.class
+model\M_Producto.class
